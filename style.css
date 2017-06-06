@@ -1,0 +1,125 @@
+p {font-family: 'Ubuntu',sans-serif;
+}
+h1 {font-family: 'Ubuntu',sans-serif;
+}
+h2 {font-family: 'Ubuntu',sans-serif;
+}
+h3 {font-family: 'Ubuntu',sans-serif;
+}
+h4 {font-family: 'Ubuntu',sans-serif;
+text-transform: uppercase;
+color grey;
+}
+h5 {font-family: 'Ubuntu',sans-serif;
+}
+
+li{
+  float:left;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+a:link {
+  color: white;
+  font-family: 'Ubuntu',sans-serif;
+  text-decoration: none;
+}
+.topnavbar {
+padding: 20px;
+margin: 10px;
+height: 75px;
+}
+.logo{
+  padding: 20px;
+  display: inline;
+  float: left;
+}
+.topnavleft a {
+  padding: 20px;
+  color: orange;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: none;
+  padding: 2px 8px 0px;
+  font-family: 'Ubuntu',sans-serif;
+  font-size: 14px;
+}
+.topnavright a {
+float: right;
+    padding: 20px;
+      color: orange;
+      text-align: center;
+  text-transform: uppercase;
+  text-decoration: none;
+      padding: 2px 8px 0px;
+      font-family: 'Ubuntu',sans-serif;
+      font-size: 14px;
+}
+.fa-shopping-cart {
+  color: redorange;
+}
+.midnavleft a {
+        float: left;
+        display: inline;
+        color: orange;
+        text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+        padding: 5px 14px 0px;
+        font-family: 'Ubuntu',sans-serif;
+        font-size: 14px;
+}
+.midnavright a {
+        float: right;
+        color: orange;
+        text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+        padding: 5px 14px 0px;
+        font-family: 'Ubuntu',sans-serif;
+        font-size: 14px;
+}
+.ShopRecommended {
+  display: block;
+}
+.imgBigShoeBlock{
+  background:linear-gradient(to right,DeepPink,Orange);
+}
+
+.QuickSneakersFeature{
+  display:block;
+  float:left;
+  border-top: 10px solid #ba361a;
+}
+.QuickSneakersDescription{
+  border-top: 1px dash #ba361a;
+  border-bottom: 1px dash #ba361a;
+}
+.ExcitingTopic{
+  text-align: left;
+}
+.ShopRecommended{
+  text-align: center;
+  margin-bottom: 0px;
+}
+.imgThreeShoeBlock{
+  padding: 10px 350px 10px 350px;
+}
+.shoe2{
+  display: inline;
+  float: left;
+}
+.shoe3{
+  display: inline;
+  float: left;
+}
+.shoe4{
+  display: inline;
+  float: left;
+}
+.bottomnav{
+  p {font-family: 'Ubuntu',sans-serif;
+}
